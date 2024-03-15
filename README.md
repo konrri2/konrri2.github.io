@@ -1,13 +1,13 @@
 # My social media
 
-https://www.linkedin.com/in/konrad-leszczynski-a856002/
+[linkedin](https://www.linkedin.com/in/konrad-leszczynski-a856002/)
 
-https://www.facebook.com/konrad.leszczynski.967/
+[facebook](https://www.facebook.com/konrad.leszczynski.967/)
 
-https://twitter.com/konrri
+[X twitter](https://twitter.com/konrri)
 
-https://app.codesignal.com/profile/konrri2
+[codesignal](https://app.codesignal.com/profile/konrri2)
 
-https://www.strava.com/athletes/18390353
+[strava](https://www.strava.com/athletes/18390353)
 
 
