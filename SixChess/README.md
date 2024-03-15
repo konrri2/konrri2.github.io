@@ -4,7 +4,7 @@
 ### 1. Acceptable Use
 By using SixChess, you agree to the following terms:
 - You may play the game for personal entertainment purposes only.
-- You must not reverse engineer, modify, or distribute the game without explicit permission.
+- You must not reverse engineer, or modify the game without explicit permission.
 ### 2. Intellectual Property Rights
 - You may not reproduce, distribute, or create derivative works without authorization.
 ### 3. Liabilities
