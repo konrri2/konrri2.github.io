@@ -1,6 +1,8 @@
 # About me
-[CV written for humans](Konrad_Leszczynski_CV.pdf)
-[ATS friendly resume](Konrad_Leszczyński_Resume.pdf)
+
+[CV written for humans](Konrad_Leszczynski_CV.pdf) code-like
+
+[ATS friendly resume](Konrad_Leszczyński_Resume.pdf) Long with more descriptions
 
 
 # My social media
