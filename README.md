@@ -2,7 +2,7 @@
 
 [CV written for humans](Konrad_Leszczynski_CV.pdf) code-like
 
-[ATS friendly resume](Konrad_Leszczynski_Resume.pdf) Long with more descriptions
+[ATS friendly resume](Konrad_Leszczyński_Resume.pdf) Long with more descriptions
 
 
 # My social media
