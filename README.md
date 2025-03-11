@@ -1,4 +1,4 @@
-# About me
+# About me: **CV**
 
 [CV written for humans](Konrad_Leszczynski_CV.pdf) code-like
 
