@@ -24,10 +24,6 @@
 [X twitter](https://twitter.com/konrri)
 
 
-### Play with algorithms
-
-[codesignal](https://app.codesignal.com/profile/konrri2)
-
 ### My triathlon training
 
 [strava](https://www.strava.com/athletes/18390353)
