@@ -1,9 +1,4 @@
-# About me: **CV**
-
-[CV written for humans](Konrad_Leszczynski_CV.pdf) 1-page, code-like
-
-[ATS friendly resume](Konrad_Leszczynski_Resume.pdf) Long with more descriptions
-
+# About me:
 
 # My Science
 
