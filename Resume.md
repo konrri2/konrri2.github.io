@@ -1,10 +1,15 @@
-[konrri@gmail.com](mailto:konrri@gmail.com) [+48 888 370 136](tel:+48888370136) Poznań, Poland
+# Konrad Leszczyński
 
-[konrad-leszczynski-a856002](https://www.linkedin.com/in/konrad-leszczynski-a856002/) [konrri2](https://github.com/konrri2/konrri2.github.io)
+[konrri@gmail.com](mailto:konrri@gmail.com) 
+[+48 888 370 136](tel:+48888370136) 
+Poznań, Poland
+
+[LinkedIn](https://www.linkedin.com/in/konrad-leszczynski-a856002/) 
+[GitHub](https://github.com/konrri2/konrri2.github.io)
 
 # **Profile**
 
-Senior iOS Developer
+Senior iOS Developer (Team Lead)
 
 CV for humans: https://konrri2.github.io/Konrad_Leszczynski_CV.pdf
 
@@ -16,29 +21,36 @@ medical, R&D, security and commercial applications.
 Author of scientific articles on trust and reputation in e-commerce
 https://konrri2.github.io/Scientific_papers.pdf
 
-# **Work Experience**
+# Profesional Experience
 
-## **Team Lead of iOS Team** *Escolasoft* Project for a major Polish company (NDA forbids telling which one). TCA architecture
+## Team Lead of iOS Team at *Escolasoft* 
+2025 - present
+Project for a major Polish company (NDA forbids telling which one). TCA architecture
 
-## **Senior iOS Developer** *myWorld* 2022 - MyWorld is big scalable ecommerce corporation.
+## Senior iOS Engineer at *myWorld* 
+2022 - 2025
+MyWorld is big scalable ecommerce corporation.
 An international e-commerce app with loyalty programs, cashback deals, coupons, vouchers, etc.
 We also develop a secondary: Lyconet - an app for merchants and marketers. Lyconet app is also used by
 thousands of users daily.
 
-## **Indie Game Developer** *Hexagonal Chess* 2023 - My personal fun project. Chess but in six directions with a simple AI bot.
 
-## **Senior iOS Developer** *Blick.ch (RingierAG)* 2021 - Blick is a daily newspaper and news portal. Our task was to rewrite and redesign mobile apps from scratch
+## Senior iOS Developer  at *Astek*
+2020 - 2022
+### *Blick.ch (RingierAG)*
+Blick is a daily newspaper and news portal. Our task was to rewrite and redesign mobile apps from scratch
 using newest technologies. Also, using Modular Approach, we have created a additional version of the app
 for French-speaking regions.
 
-## **iOS Engineer** *Roche* 2020 - Roche is a multinational healthcare company. I have participate in two projects: mySugr - Software As A
+### *Roche*
+Roche is a multinational healthcare company. I have participate in two projects: mySugr - Software As A
 Medical Device. A huge app for diabetics.
 CopyCatFinder - internal project where I was the team leader.
 
-## **iOS Engineer** *FIBARO* 2020 - Smart home solutions. New App with RxSwift and Coordinators
 
-
-## Poznan Supercomputing and Networking Center is a leading research and development center in Poland,
+## Software Engineer at *PSNC*
+2008- 2020
+PSNC - Poznan Supercomputing and Networking Center is a leading research and development center in Poland,
 part of **Polish Academy of Science** 2019
 **System Developer** *EUROfusion IT-Group*  - IT infrastructure scientists building fusion reactors to address the energy crisis and global warming.
 Responsibility: Authentication and Authorization Infrastructure
@@ -59,7 +71,12 @@ Cop14 - The United Nations Climate Change Conference
 
 Part-time job as a student
 Network protocols, VPN, monitoring, OAuth 2,
-3
+
+# Hobby projects
+
+## **Indie Game Developer** *Hexagonal Chess* 2023 - My personal fun project. Chess but in six directions with a simple AI bot.
+
+
 
 # **Education**
 
@@ -118,6 +135,23 @@ understanding of ARC
 
 
 # **Certificate**
+
+## AI Programming
+[Building Gen AI App 12+ Hands-on Projects with Gemini Pro](https://www.udemy.com/certificate/UC-7591bbe4-e11c-4443-a693-7282019cc18e/)
+04.2026
+
+
+[Vibe Coding for iOS Developers](https://www.udemy.com/certificate/UC-b1f62d3f-3edd-42fc-8b43-9dafaa0c659e/)
+05.2026
+
+
+[Securing GenAI Systems With Best Practice Frameworks - 2026](https://www.udemy.com/certificate/UC-ce335733-71ee-4465-84ab-0fb264e75b95/)
+
+## AI and Machine Lerning
+
+[AI Engineer Professional Certificate Course](https://www.udemy.com/certificate/UC-9818ef50-7fc8-407d-bff4-4c6962f94b92/)
+
+
 
 **iOS Machine Learning with Core ML2 and Swift5**
 
