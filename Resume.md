@@ -1,81 +1,128 @@
+---
+header-includes:
+  - \usepackage{titlesec}
+  - \titlespacing*{\section}{0pt}{1em}{0.3em}
+  - \titlespacing*{\subsection}{0pt}{1em}{0.2em}
+  - \titlespacing*{\subsubsection}{0pt}{1em}{0.2em}
+---
+
 # Konrad Leszczyński
 
-[konrri@gmail.com](mailto:konrri@gmail.com) 
-[+48 888 370 136](tel:+48888370136) 
-Poznań, Poland
+[konrri@gmail.com](mailto:konrri@gmail.com)  &nbsp;&nbsp; [+48 888 370 136](tel:+48888370136) &nbsp;&nbsp;  Poznań, Poland
 
-[LinkedIn](https://www.linkedin.com/in/konrad-leszczynski-a856002/) 
+[LinkedIn](https://www.linkedin.com/in/konrad-leszczynski-a856002/)
+&nbsp;&nbsp; 
 [GitHub](https://github.com/konrri2/konrri2.github.io)
 
 # **Profile**
 
 Senior iOS Developer (Team Lead)
 
-CV for humans: https://konrri2.github.io/Konrad_Leszczynski_CV.pdf
+CV for human readers: [https://konrri2.github.io/Konrad_Leszczynski_CV.pdf](https://konrri2.github.io/Konrad_Leszczynski_CV.pdf)
 
-Highly skilled Senior iOS Developer with a strong background in Swift, SwiftUI, and UIKit. Experienced in
-implementing new technologies, and optimizing app performance. Holds a Master's degree in Computing
+Highly skilled Senior Software Engineer with a strong background in iOS, Swift, SwiftUI, and UIKit. Experienced in
+implementing new technologies and optimizing app performance. Holds a Master's degree in Computing
 Science and has extensive experience in developing mobile applications for various industries including
 medical, R&D, security and commercial applications.
 
-Author of scientific articles on trust and reputation in e-commerce
-https://konrri2.github.io/Scientific_papers.pdf
+Author of scientific articles on Data Mining and trust/reputation in e-commerce
+[https://konrri2.github.io/Scientific_papers.pdf](https://konrri2.github.io/Scientific_papers.pdf)
 
-# Profesional Experience
+# Professional Experience
 
-## Team Lead of iOS Team at *Escolasoft* 
-2025 - present
-Project for a major Polish company (NDA forbids telling which one). TCA architecture
+## Team Lead at *Escolasoft* (2025 – Present)
 
-## Senior iOS Engineer at *myWorld* 
-2022 - 2025
-MyWorld is big scalable ecommerce corporation.
-An international e-commerce app with loyalty programs, cashback deals, coupons, vouchers, etc.
-We also develop a secondary: Lyconet - an app for merchants and marketers. Lyconet app is also used by
-thousands of users daily.
+* Joined a strategic project for one of the largest companies in Poland (details covered by NDA).
+* Promoted from Senior Developer to Team Lead based on engagement, collaboration skills, and ability to build consensus across stakeholders.
+* Act as the primary technical contact for client representatives and business analysts.
+* Lead technical discussions, requirement clarification, and delivery planning.
+* Maintain development productivity using AI-assisted workflows with Gemini CLI and Claude Code.
+* Develop and maintain a modern iOS application built with SwiftUI, TCA architecture, custom dependency injection, and extensive automated test coverage.
+
+## Senior iOS Engineer at *myWorld* (2022 – 2025)
+
+* Developed and maintained a large-scale international e-commerce platform serving thousands of daily users.
+* Worked within an MVVM architecture, contributing to the evolution and maintainability of a complex codebase.
+* Refactored legacy code to improve readability, testability, performance, and long-term maintainability.
+* Introduced modern iOS technologies and development practices, including SwiftUI adoption in existing applications.
+* Implemented features related to loyalty programs, cashback offers, coupons, and vouchers.
+* Contributed to the development of Lyconet, a companion application for merchants and marketers.
+* Collaborated with international cross-functional teams to deliver scalable and reliable mobile solutions.
+* Improved application quality through code reviews, architectural improvements, and knowledge sharing.
 
 
-## Senior iOS Developer  at *Astek*
-2020 - 2022
-### *Blick.ch (RingierAG)*
-Blick is a daily newspaper and news portal. Our task was to rewrite and redesign mobile apps from scratch
-using newest technologies. Also, using Modular Approach, we have created a additional version of the app
-for French-speaking regions.
+## Senior iOS Developer at *Astek* (2020 – 2022)
+
+* Served as the most senior iOS developer in the company.
+* Participated in technical interviews and evaluated iOS developer candidates.
+* Led technical initiatives and provided mentorship to team members.
+
+### *Blick.ch (Ringier AG)*
+
+* Rebuilt mobile applications from scratch using modern iOS technologies.
+* Participated in a complete redesign of the user experience and application architecture.
+* Implemented a modular architecture that enabled efficient code reuse.
+* Delivered an additional application version tailored for French-speaking regions.
+
 
 ### *Roche*
-Roche is a multinational healthcare company. I have participate in two projects: mySugr - Software As A
-Medical Device. A huge app for diabetics.
-CopyCatFinder - internal project where I was the team leader.
+
+* Contributed to **mySugr**, a Software as a Medical Device (SaMD) application for people with diabetes.
+* Worked within a large-scale engineering organization consisting of dozens of developers distributed across multiple feature teams.
+* Collaborated with cross-functional teams to deliver features in a regulated healthcare environment.
+* Developed and maintained production code used by a large international user base.
 
 
-## Software Engineer at *PSNC*
-2008- 2020
-PSNC - Poznan Supercomputing and Networking Center is a leading research and development center in Poland,
-part of **Polish Academy of Science** 2019
-**System Developer** *EUROfusion IT-Group*  - IT infrastructure scientists building fusion reactors to address the energy crisis and global warming.
-Responsibility: Authentication and Authorization Infrastructure
-Configuration of Single sign-on (SSO), VPN, Docker
+## Software Engineer at *PSNC* (2008 – 2020)
 
-I have done many project for government institutions e.g.:
-ePodręczniki - electronic school books for Ministry of National Education
-SymbIoTe - symbiosis of smart objects across IoT environments (where I also was a mentor on Hackaton)
-Conference4me - mobile conference assistant
+PSNC (Poznan Supercomputing and Networking Center) – one of Poland's leading research and development institutions and part of the Polish Academy of Sciences.
 
-**Junior C# .NET Developer** *PSNC* 2008 - Multiple projects:
-iTVP - internet/interactive TV (for TVP, Polish Television)
-Platon - Development of IT infrastructure for science
-NetRadio - Research project for Polish Radio
-Cop14 - The United Nations Climate Change Conference
+### System Developer – *EUROfusion IT Group*
 
-**Junior System Admin** *PSNC*
+* Developed and maintained authentication and authorization infrastructure for international scientific collaborations.
+* Administered Single Sign-On (SSO) solutions, VPN services, and Docker-based environments.
+* Supported researchers working on fusion energy technologies.
 
-Part-time job as a student
-Network protocols, VPN, monitoring, OAuth 2,
+**Selected Projects**
+
+* **ePodręczniki** – Developed an electronic textbook platform for the Ministry of National Education.
+* **SymbIoTe** – Contributed to an interoperability platform connecting smart devices across IoT ecosystems; also served as a hackathon mentor.
+* **Conference4me** – Developed a mobile conference assistant application.
+
+### Junior C# .NET Developer – *PSNC*
+
+* Developed software solutions for public-sector, research, and media organizations.
+* Contributed to multiple large-scale projects, including:
+
+  * **iTVP** – Interactive television platform for TVP.
+  * **Platon** – National IT infrastructure project for science and research.
+  * **NetRadio** – Research initiative for Polish Radio.
+  * **COP14** – United Nations Climate Change Conference.
+
+### Junior System Administrator – *PSNC*
+
+* Worked part-time while studying.
+* Managed network infrastructure, VPN services, and system monitoring.
+* Supported authentication systems and security-related technologies.
+* Gained hands-on experience with network protocols and OAuth 2.0.
+
 
 # Hobby projects
 
-## **Indie Game Developer** *Hexagonal Chess* 2023 - My personal fun project. Chess but in six directions with a simple AI bot.
+## Hexagonal Chess
+Chess but in six directions with a simple AI bot.
+[https://apps.apple.com/us/app/hexagonal-chess/id6479699878](https://apps.apple.com/us/app/hexagonal-chess/id6479699878)
 
+
+## Audiobook player
+Experiments with CarPlay and integrating OpenAI Codex
+Audio player with many cool ways to rewind and seek
+[https://apps.apple.com/us/app/book-whisperer/id6752223772](https://apps.apple.com/us/app/book-whisperer/id6752223772)   
+
+## Heating system
+[https://github.com/konrri2/Heating](https://github.com/konrri2/Heating)
+Server: RaspberryPi+Python
+Client: RxSwift
 
 
 # **Education**
@@ -86,52 +133,43 @@ M.Sc. Computer Science
 Open Ph.D. Thesis "Trust and Reputation management in the Internet and e-commerce"
 List of **Published scientific papers:** https://konrri2.github.io/Scientific_papers.pdf
 
-# **Projects**
-
-**Hexagonal Chess**
-Indie Game Developer
-Custom AI bot
-**Neste**
-Payment system for car refuelling and EV charging
-
-**Lyconet**
-App for marketers and merchants
-
-**Blick fr**
-News portal
-
-**mySugr**
-Software as a Medical Device
-
-**Smart-home project**
-Heating Optimization System.
-Server in Python on Raspberry Pi
-Client iOS swift, MVVM and RxSwift
-
-**IoT SymbIoTe**
-R&D project implemented in a pan-European consortium
-
-**Conference4me**
-iOS (swift) and WindowsPhone version
 
 # **Skills**
 Lots of experience: iOS, Swift, SwiftUI, UIKit, Combine, JSON, REST API, RxSwift, SQL, Storyboards, XIB
-Fair knowledge: GraphQL, Objective-C, SpriteKit, Android, Kotlin Multiplatform, SQLite, C# .NET
+Fair knowledge: GraphQL, Objective-C, Android, Kotlin Multiplatform, SQLite, C# .NET
 
 Architecture: MVC, MVP, MVVM, MVVM+C, TCA
-Tools: Xcode, Instruments, VS Code, GitHub, Bitbucket, GitLab, jira, confluence, figma, Azure DevOps,
+
+Tools: 
+Xcode, Instruments, VS Code, GitHub, Bitbucket, GitLab, jira, confluence, figma, Azure DevOps,
 Fastlane, Postman, Proxyman, GIT, TestFlight, App Store Connect, Firebase, CocoaPods, SPM, GitHub
 Copilot (and other AI Coding Assistants), SwiftGen, XcodeGen, SwiftLint, XCTest
-Experience with frameworks and libraries: Alamofire, IGListKit, Sourcery, Factory (Dependency Injection),
+Experience with frameworks and libraries: Alamofire, IGListKit, Sourcery, Factory (Dependency Injection)
+
+AI tolls: 
+Gemini CLI, Claude Code OpenAI Codex, Github Copilot 
 
 Techniques: Data Structures and Algorithms, CI/CD, GCD, Structured Concurrency, Swift Concurrency (),
 Reactive programming, OOP, Protocol-Oriented Programming, Big-O analysis (time and memory complexity),
 Scrum, Kanban, Agile, GitFlow
 
 Soft skills: focused, problem-solving, work autonomously, responsibility, ownership, TDD, BDD, deep
-understanding of ARC
+understanding of ARC, experience with AI-assisted programming 
 
+# Language
 
+- **English** (C1)Strong written and verbal
+communication skills. Many
+scientific papers published (see
+https://konrri2.github.io/Scientific_papers.pdf)
+
+- **Polish** (Native) • **German** (A2)Basic understanding.
+
+- **Spanish** (A1)A year with Duolingo
+
+# Hobbies
+3D CAD modeling, tinkering and printing
+Triathlon, because I like a challenge from time to time
 
 
 # **Certificate**
@@ -147,7 +185,7 @@ understanding of ARC
 
 [Securing GenAI Systems With Best Practice Frameworks - 2026](https://www.udemy.com/certificate/UC-ce335733-71ee-4465-84ab-0fb264e75b95/)
 
-## AI and Machine Lerning
+### AI and Machine Learning
 
 [AI Engineer Professional Certificate Course](https://www.udemy.com/certificate/UC-9818ef50-7fc8-407d-bff4-4c6962f94b92/)
 
@@ -194,15 +232,4 @@ understanding of ARC
 **FreeCAD 1.0 i n 25 Days : Complete CAD Course**
 
 **3D Printing from Zero to Hero in Blender - FDM & MSLA**
-
-**Language**
-
-- **English** (C1)Strong written and verbal
-communication skills. Many
-scientific papers published (see
-https://konrri2.github.io/Scientific_papers.pdf)
-
-- **Polish** (Native) • **German** (A2)Basic understanding.
-
-- **Spanish** (A1)A year with Duolingo
 

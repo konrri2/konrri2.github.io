@@ -1,0 +1,50 @@
+TODO.txt
+
+dodac linki do certyfikatow i cert z antropic
+albo usunac certyfikaty
+
+
+
+
+pandoc Resume.md -o Resume_Konrad_Leszczynski.pdf \
+  --pdf-engine=xelatex \
+  -V geometry:margin=1cm \
+  -V fontsize=2pt
+
+
+
+
+pandoc Resume.md -o Resume_Konrad_Leszczynski.pdf \
+  --pdf-engine=xelatex \
+  -V fontsize:4pt \
+  -V geometry:margin=0.5cm
+
+// needs extarticle to support 8pt fonts
+// this is ok 1 imporatant page and one less important (strat with "junior admin")
+
+pandoc Resume.md -o Resume_Konrad_Leszczynski.pdf \
+  --pdf-engine=xelatex \
+  -V documentclass=extarticle \
+  -V fontsize=8pt \
+  -V geometry:margin=0.5cm
+
+
+// changing linestrech make text impossible to read
+
+pandoc Resume.md -o Resume_Konrad_Leszczynski.pdf \
+  --pdf-engine=xelatex \
+  -V documentclass=extarticle \
+  -V fontsize=8pt \
+  -V geometry:margin=0.5cm \
+  -V linestretch=0.95
+
+
+
+  use yaml at start to remove spacing after headlines
+
+  ---
+header-includes:
+  - \usepackage{titlesec}
+  - \titlespacing*{\section}{0pt}{0.5em}{0.2em}
+  - \titlespacing*{\subsection}{0pt}{0.4em}{0.15em}
+---
